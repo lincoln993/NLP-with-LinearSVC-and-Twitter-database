@@ -3,7 +3,7 @@
 Twitter dataset download:
 https://www.kaggle.com/augustop/portuguese-tweets-for-sentiment-analysis
 
-To get the joblib archive, run this code:
+To get the joblib file, run this line:
 ```bash
 joblib.dump(pipeline, "model.joblib")
 ```
